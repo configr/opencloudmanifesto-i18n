@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-09-10 17:09-0700\n"
-"PO-Revision-Date: 2014-09-11 00:47-0700\n"
+"PO-Revision-Date: 2014-09-11 16:07-0700\n"
 "Last-Translator: Ana Carolina Comandulli <caroll@configr.com>\n"
 "Language-Team: Configr\n"
 "Language: en\n"
@@ -188,10 +188,16 @@ msgid ""
 "advantage of cloud technologies internally or by offloading workload into "
 "the public."
 msgstr ""
+"Uma organização de qualquer tamanho terá um investimento substancial em seu "
+"data center. Isso inclui comprar e manter hardware e software, fornecer a "
+"estrutura física onde o hardware é hospedado e contratar pessoas para manter "
+"o data center funcionando. Uma organização pode racionalizar seu data center "
+"aproveitando as tecnologias da nuvem internamente ou colocando essa carga em "
+"uma nuvem pública."
 
 #: opencloudmanifesto.txt:42
 msgid "Improving Business Processes"
-msgstr ""
+msgstr "Melhora dos Processos de Negócio"
 
 #: opencloudmanifesto.txt:44
 msgid ""
@@ -201,10 +207,14 @@ msgid ""
 "everyone involved to focus on the business process instead of the "
 "infrastructure that hosts it."
 msgstr ""
+"A nuvem fornece uma infraestrutura para melhorar os processos de negócio. "
+"Uma organização e seus fornecedores e parceiros podem compartilhar dados e "
+"aplicações na nuvem, permitindo que os envolvidos possam focar no negócio "
+"invés de focar na infraestrutura para hospedá-lo."
 
 #: opencloudmanifesto.txt:47
 msgid "Minimizing Startup Costs"
-msgstr ""
+msgstr "Minimizando Custos de Startup"
 
 #: opencloudmanifesto.txt:49
 msgid ""
@@ -216,10 +226,16 @@ msgid ""
 "center are borne by the"
 "cloud provider, whether the cloud is private or public."
 msgstr ""
+"Para empresas que estão apenas começando, organizações em mercados "
+"emergentes, ou mesmo para os grupos chamados de “Skunk Works” de empresas "
+"maiores, computação na nuvem reduz enormemente os custos. A nova organização "
+"começa já com a infraestrutura pronta, então o tempo e os recursos que "
+"seriam gastos na construção do data center são por conta do provedor da "
+"nuvem, seja ela pública ou privada."
 
 #: opencloudmanifesto.txt:53
 msgid "Challenges and Barriers to Adoption"
-msgstr ""
+msgstr "Desafios e Barreiras da Adoção"
 
 #: opencloudmanifesto.txt:55
 msgid ""
@@ -233,10 +249,18 @@ msgid ""
 "This section examines five main challenges that cloud computing must address "
 "in order to deliver on its promise."
 msgstr ""
+"Embora a nuvem apresente oportunidade e valor extraordinários para as "
+"organizações, os requerimentos normais de TI (segurança, integração, etc.) "
+"ainda se aplicam. E mais, alguns problemas novos aparecem por causa da "
+"natureza compartilhada da computação na nuvem (informação de várias empresas "
+"no mesmo hardware físico), a fusão de aplicações e dados, e o fato de que a "
+"carga de trabalho da empresa está fora da sua estrutura física. Esta seção "
+"examina cinco desafios principais que a computação na nuvem precisa resolver "
+"para entregar sua promessa."
 
 #: opencloudmanifesto.txt:58
 msgid "Security"
-msgstr ""
+msgstr "Segurança"
 
 #: opencloudmanifesto.txt:60
 msgid ""
@@ -251,7 +275,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:62
 msgid "Data and Application Interoperability"
-msgstr ""
+msgstr "Interoperabilidade de Dados e Aplicação"
 
 #: opencloudmanifesto.txt:64
 msgid ""
@@ -268,7 +292,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:68
 msgid "Data and Application Portability"
-msgstr ""
+msgstr "Portabilidade de Dados e Aplicação"
 
 #: opencloudmanifesto.txt:70
 msgid ""
@@ -281,7 +305,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:73
 msgid "Governance and Management"
-msgstr ""
+msgstr "Governança e Gerenciamento"
 
 #: opencloudmanifesto.txt:75
 msgid ""
@@ -295,7 +319,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:78
 msgid "Metering and Monitoring"
-msgstr ""
+msgstr "Medição e Monitoramento"
 
 #: opencloudmanifesto.txt:80
 msgid ""
@@ -313,7 +337,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:84
 msgid "The Goals of an Open Cloud"
-msgstr ""
+msgstr "Os objetivos da Nuvem Aberta"
 
 #: opencloudmanifesto.txt:86
 msgid ""
@@ -325,7 +349,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:89
 msgid "Choice"
-msgstr ""
+msgstr "Escolha"
 
 #: opencloudmanifesto.txt:91
 msgid ""
@@ -342,7 +366,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:94
 msgid "Flexibility"
-msgstr ""
+msgstr "Flexibilidade"
 
 #: opencloudmanifesto.txt:96
 msgid ""
@@ -355,7 +379,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:99
 msgid "Speed and Agility"
-msgstr ""
+msgstr "Velocidade e Agilidade"
 
 #: opencloudmanifesto.txt:101
 msgid ""
@@ -370,7 +394,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:105
 msgid "Skills"
-msgstr ""
+msgstr "Skills"
 
 #: opencloudmanifesto.txt:107
 msgid ""
@@ -385,7 +409,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:110
 msgid "Principles of an Open Cloud"
-msgstr ""
+msgstr "Princípios da Nuvem Aberta"
 
 #: opencloudmanifesto.txt:112
 msgid ""
@@ -441,7 +465,7 @@ msgstr ""
 
 #: opencloudmanifesto.txt:127
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusão"
 
 #: opencloudmanifesto.txt:129
 msgid ""
