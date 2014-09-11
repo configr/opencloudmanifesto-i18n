@@ -1,0 +1,462 @@
+# Ana Carolina Comandulli <caroll@configr.com>, 2014.
+#. extracted from opencloudmanifesto.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-10 17:09-0700\n"
+"PO-Revision-Date: 2014-09-11 00:47-0700\n"
+"Last-Translator: Ana Carolina Comandulli <caroll@configr.com>\n"
+"Language-Team: Configr\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: opencloudmanifesto.txt:1
+msgid "Open Cloud Manifesto"
+msgstr "Open Cloud Manifesto"
+
+#: opencloudmanifesto.txt:3
+msgid "Dedicated to the belief that the cloud should be open"
+msgstr "Dedicado à crença de que a nuvem deve ser aberta"
+
+#: opencloudmanifesto.txt:5
+msgid ""
+"This work is licensed under a Creative Commons Attribution-Share Alike 3.0 "
+"Unported License"
+msgstr ""
+"Este trabalho é licenciado sob a Licença Creative Commons Attribution-Share "
+"Alike 3.0 Unported"
+
+#: opencloudmanifesto.txt:7
+msgid "Introduction"
+msgstr "Introdução"
+
+#: opencloudmanifesto.txt:9
+msgid ""
+"The buzz around cloud computing has reached a fever pitch. Some believe it "
+"is a disruptive trend representing the next stage in the evolution of the "
+"Internet. Others believe it is hype, as it uses long established computing "
+"technologies. As with any new trend in the IT world, organizations must "
+"figure out the benefits and risks of cloud"
+"computing and the best way to use this technology."
+msgstr ""
+"O burburinho sobre computação na nuvem virou febre. Alguns acreditam que é "
+"um tendência disruptiva que representa o próximo estágio naa evolução da "
+"Internet. Outros acreditam que é só promoção, já que a nuvem usa tecnologias "
+"de computação estabelecidas há tempos. Como em qualquer nova tendência no "
+"mundo de TI, as organizações precisam calcular os benefícios e os riscos da "
+"computação na nuvem e a melhor forma de utilizar esta tecnologia."
+
+#: opencloudmanifesto.txt:12
+msgid ""
+"One thing is clear: The industry needs an objective, straightforward "
+"conversation about how this new computing paradigm will impact "
+"organizations, how it can be used with"
+"existing technologies, and the potential pitfalls of proprietary "
+"technologies that can lead to lock-in and limited choice."
+msgstr ""
+"Uma coisa é clara: A indústria precisa de uma conversa direta e objetiva "
+"sobre como esse novo paradigma de computação irá impactar as organizações, "
+"como ele pode ser usado com tecnologias já existentes e as armadilhas "
+"pontenciais de tecnologias proprietárias que podem levar a um \"lock-in\" e "
+"escolhas limitadas. "
+
+#: opencloudmanifesto.txt:15
+msgid ""
+"This document is intended to initiate a conversation that will bring "
+"together the emerging cloud computing community (both cloud users and cloud "
+"providers) around"
+"a core set of principles. We believe that these core principles are rooted "
+"in the belief that cloud computing should be as open as all other IT "
+"technologies."
+msgstr ""
+"Este documento destina-se a iniciar a conversa que reunirá a emergente "
+"comunidade de computação na nuvem (tanto usuários da nuvem quanto provedores)"
+" em torno de um conjunto de princípios básicos. Nós acreditamos que estes "
+"princípios básicos estão enraizados na crença que a computação na nuvem deve "
+"ser tão livre quanto todas as outras tecnologias de TI."
+
+#: opencloudmanifesto.txt:18
+msgid ""
+"This document does not intend to define a final taxonomy of cloud computing "
+"or to charter a new standards effort. Nor does it try to be an exhaustive "
+"thesis on cloud"
+"architecture and design. Rather, this document is intended for CIOs, "
+"governments, IT users and business leaders who intend to use cloud computing "
+"and to establish a set"
+"of core principles for cloud providers. Cloud computing is still in its "
+"early stages, with much to learn and more experimentation to come. However, "
+"the time is right for the"
+"members of the emerging cloud computing community to come together around "
+"the notion of an open cloud."
+msgstr ""
+"Este documento não pretende definir a taxonomia final da computação na nuvem "
+"ou fundar um novo esforço de padrões. Nem tenta ser uma tese exaustiva sobre "
+"arquitetura e design da nuvem. Contudo, este documento destina-se a CIO's, "
+"governos, usuários de TI e donos de empresas que pretendem usar computação "
+"na nuvem e estabelecer um conjunto básico de princípios para provedores da "
+"nuvem. Computação na nuvem ainda está em estágio inicial, com muito para "
+"aprender e muita experimentação ainda. Entretanto, a hora é certa para os "
+"membros da emergente comunidade de computação na nuvem unir-se em torno da "
+"ideia de uma nuvem aberta."
+
+#: opencloudmanifesto.txt:23
+msgid "What is Cloud Computing and Why is it Important?"
+msgstr "O que é Computação na Nuvem e porque isso é importante?"
+
+#: opencloudmanifesto.txt:25
+msgid ""
+"In order to understand the core principles of an open cloud, we need to "
+"first agree on some basic definitions and concepts of cloud computing "
+"itself. First, what is “the"
+"cloud”? The architecture and terminology of cloud computing is as clearly "
+"and precisely defined as, well, a cloud. Since cloud computing is really a "
+"culmination of many"
+"technologies such as grid computing, utility computing, SOA, Web 2.0, and "
+"other technologies, a precise definition is often debated."
+"While definitions, taxonomies and architectures are interesting, it is more "
+"important to understand the value propositions for cloud computing. We need "
+"to understand how"
+"suppliers of cloud technology will come together to deliver on the promise "
+"of cloud computing. The key characteristics of the cloud are the ability to "
+"scale and provision computing power dynamically in a cost efficient way and "
+"the ability of the consumer (end user, organization or IT staff) to make the "
+"most of that power without having to manage the underlying complexity of the "
+"technology. The cloud architecture itself can be private (hosted within an "
+"organization’s firewall) or public (hosted on the Internet). These "
+"characteristics lead to a set of core value propositions:"
+msgstr ""
+"Para entender os princípios básicos de uma nuvem aberta, nós precisamos "
+"antes concordar em algumas definições e conceitos da computação na nuvem. "
+"Primeiro, o que é \"a nuvem\"? A arquitetura e terminologia de computação na "
+"nuvem é claramente e precisamente definida como, bem, uma nuvem. Desde que "
+"computação na nuvem é realmente a culminação de várias tecnologias com "
+"computação em grid, \"utility computing\", SOA, Web 2.0 e outras "
+"tecnologias, uma definição precisa é frequentemente discutida. Enquanto "
+"definições, taxonomias e arquiteturas são interessantes, é ainda mais "
+"importante compreender as propostas de valor para computação na nuvem. Nós "
+"precisamos entender como fornecedores de tecnologia de nuvem se unirão para "
+"cumprir a promessa de computação na nuvem. As características chave da nuvem "
+"são a habilidade de escalar e provisionar poder computacional dinamicamente "
+"a um custo eficiente e a habilidade do consumidor (usuário final, "
+"organização ou equipe de TI) fazer o melhor desse poder sem ter que "
+"gerenciar a complexidade da tecnologia. A arquitetura da nuvem por si mesma "
+"pode ser privada (hospedada dentro do firewall de uma organização) ou "
+"pública (hospedada na Internet). Estas caracterïsticas levam a um conjunto "
+"central de proposições:  "
+
+#: opencloudmanifesto.txt:31
+msgid "Scalability on Demand"
+msgstr "Escalabilidade sob Demanda"
+
+#: opencloudmanifesto.txt:33
+msgid ""
+"All organizations have to deal with changes in their environments. The "
+"ability of cloud computing solutions to scale up and down is a major "
+"benefit. If an organization has"
+"periods of time in which their computing resource needs are much higher or "
+"lower than normal, cloud technologies (both private and public) can deal "
+"with those changes."
+"The organization pays for the IT resources it actually uses; it does not "
+"have to maintain multiple sets of artificially high levels of resources to "
+"handle peak demands."
+msgstr ""
+"Todas as organizações tem que lidar com mudanças em seus ambientes. A "
+"habilidade das soluções de computação na nuvem para escalar para cima e para "
+"baixo é o benefício principal. Se uma organização tem períodos de tempo em "
+"que seus recursos computacionais precisam ser muito altos ou mais baixos que "
+"o normal, tecnologias da nuvem (tanto privada quanto pública) podem lidar "
+"com essas mudanças. A organização só paga pelos recursos de TI que ela usa; "
+"não precisa manter múltiplos conjuntos de de recursos de alto nível para "
+"lidar com demandas de pico."
+
+#: opencloudmanifesto.txt:37
+msgid "Streamlining the Data Center"
+msgstr "Racionalização de Data Center"
+
+#: opencloudmanifesto.txt:39
+msgid ""
+"An organization of any size will have a substantial investment in its data "
+"center. That includes buying and maintaining the hardware and software, "
+"providing the facilities in"
+"which the hardware is housed and hiring the personnel who keep the data "
+"center running. An organization can streamline its data center by taking "
+"advantage of cloud technologies internally or by offloading workload into "
+"the public."
+msgstr ""
+
+#: opencloudmanifesto.txt:42
+msgid "Improving Business Processes"
+msgstr ""
+
+#: opencloudmanifesto.txt:44
+msgid ""
+"The cloud provides an infrastructure for improving business processes. An "
+"organization and its suppliers and partners can share data and applications "
+"in the cloud, allowing"
+"everyone involved to focus on the business process instead of the "
+"infrastructure that hosts it."
+msgstr ""
+
+#: opencloudmanifesto.txt:47
+msgid "Minimizing Startup Costs"
+msgstr ""
+
+#: opencloudmanifesto.txt:49
+msgid ""
+"For companies that are just starting out, organizations in emerging markets, "
+"or even “Skunk Works” groups in larger organizations, cloud computing "
+"greatly reduces startup"
+"costs. The new organization starts with an infrastructure already in place, "
+"so the time and other resources that would be spent on building a data "
+"center are borne by the"
+"cloud provider, whether the cloud is private or public."
+msgstr ""
+
+#: opencloudmanifesto.txt:53
+msgid "Challenges and Barriers to Adoption"
+msgstr ""
+
+#: opencloudmanifesto.txt:55
+msgid ""
+"Although the cloud presents tremendous opportunity and value for "
+"organizations, the usual IT requirements (security, integration, and so "
+"forth) still apply. In addition, some"
+"new issues come about because of the multi-tenant nature (information from "
+"multiple companies may reside on the same physical hardware) of cloud "
+"computing, the merger of applications and data, and the fact that a company’"
+"s workloads might reside outside of their physical on-premise datacenter. "
+"This section examines five main challenges that cloud computing must address "
+"in order to deliver on its promise."
+msgstr ""
+
+#: opencloudmanifesto.txt:58
+msgid "Security"
+msgstr ""
+
+#: opencloudmanifesto.txt:60
+msgid ""
+"Many organizations are uncomfortable with the idea of storing their data and "
+"applications on systems they do not control. Migrating workloads to a shared "
+"infrastructure increases the potential for unauthorized access and exposure. "
+"Consistency around authentication, identity management, compliance, and "
+"access technologies will become increasingly important. To reassure their "
+"customers, cloud providers must offer a high degree of transparency into "
+"their operations."
+msgstr ""
+
+#: opencloudmanifesto.txt:62
+msgid "Data and Application Interoperability"
+msgstr ""
+
+#: opencloudmanifesto.txt:64
+msgid ""
+"It is important that both data and applications systems expose standard "
+"interfaces. Organizations will want the flexibility to create new solutions "
+"enabled by data and"
+"applications that interoperate with each other regardless of where they "
+"reside (public clouds, private clouds that reside within an organization’s "
+"firewall, traditional IT"
+"environments or some combination). Cloud providers need to support "
+"interoperability standards so that organizations can combine any cloud "
+"provider’s capabilities into their solutions."
+msgstr ""
+
+#: opencloudmanifesto.txt:68
+msgid "Data and Application Portability"
+msgstr ""
+
+#: opencloudmanifesto.txt:70
+msgid ""
+"Without standards, the ability to bring systems back in-house or choose "
+"another cloud provider will be limited by proprietary interfaces. Once an "
+"organization builds or ports"
+"a system to use a cloud provider’s offerings, bringing that system back in-"
+"house will be difficult and expensive."
+msgstr ""
+
+#: opencloudmanifesto.txt:73
+msgid "Governance and Management"
+msgstr ""
+
+#: opencloudmanifesto.txt:75
+msgid ""
+"As IT departments introduce cloud solutions in the context of their "
+"traditional datacenter, new challenges arise. Standardized mechanisms for "
+"dealing with lifecycle"
+"management, licensing, and chargeback for shared cloud infrastructure are "
+"just some of the management and governance issues cloud providers must work "
+"together to resolve."
+msgstr ""
+
+#: opencloudmanifesto.txt:78
+msgid "Metering and Monitoring"
+msgstr ""
+
+#: opencloudmanifesto.txt:80
+msgid ""
+"Business leaders will want to use multiple cloud providers in their IT "
+"solutions and will need to monitor system performance across these "
+"solutions. Providers must supply"
+"consistent formats to monitor cloud applications and service performance and "
+"make them compatible with existing monitoring systems."
+"It is clear that the opportunity for those who effectively utilize cloud "
+"computing in their organizations is great. However, these opportunities are "
+"not without risks and barriers. It is our belief that the value of cloud "
+"computing can be fully realized only when cloud providers ensure that the "
+"cloud is open."
+msgstr ""
+
+#: opencloudmanifesto.txt:84
+msgid "The Goals of an Open Cloud"
+msgstr ""
+
+#: opencloudmanifesto.txt:86
+msgid ""
+"Customers expect that the cloud services they use will be as open as the "
+"rest of their IT choices. As an open cloud becomes a reality, business "
+"leaders will benefit in several"
+"ways."
+msgstr ""
+
+#: opencloudmanifesto.txt:89
+msgid "Choice"
+msgstr ""
+
+#: opencloudmanifesto.txt:91
+msgid ""
+"As an organization chooses a provider or architecture or usage model, an "
+"open cloud will make it easy for them to use a different provider or "
+"architecture as the business"
+"environment changes. If the organization needs to change providers because "
+"of new partnerships, acquisition, customer requests or government "
+"regulations, they can do so easily. If the organization deploys a private "
+"cloud, they can choose between providers as they extend their capacity and/"
+"or functional capabilities. Resources that would have been spent on a "
+"difficult migration can instead be spent on innovation."
+msgstr ""
+
+#: opencloudmanifesto.txt:94
+msgid "Flexibility"
+msgstr ""
+
+#: opencloudmanifesto.txt:96
+msgid ""
+"No matter which cloud provider and architecture an organization uses, an "
+"open cloud will make it easy for them to work with other groups, even if "
+"those other groups"
+"choose different providers and architectures. An open cloud will make it "
+"easy for organizations to interoperate between different cloud providers."
+msgstr ""
+
+#: opencloudmanifesto.txt:99
+msgid "Speed and Agility"
+msgstr ""
+
+#: opencloudmanifesto.txt:101
+msgid ""
+"One of the value propositions of cloud computing is the ability to scale "
+"hardware and software as needed. Using open interfaces allows organizations "
+"to build new solutions"
+"that integrate public clouds, private clouds and current IT systems. As the "
+"conditions of the organization change, an open cloud will let the "
+"organization respond with speed"
+"and agility."
+msgstr ""
+
+#: opencloudmanifesto.txt:105
+msgid "Skills"
+msgstr ""
+
+#: opencloudmanifesto.txt:107
+msgid ""
+"A side effect of an open cloud is the availability of skilled professionals. "
+"If there are many proprietary programming models, a given IT professional is "
+"unlikely to know"
+"more than a few of them. With an open cloud, there will be a smaller set of "
+"new technologies to learn (especially when existing technologies are "
+"utilized), greatly enhancing the chances that the organization can find "
+"someone with the necessary skills."
+msgstr ""
+
+#: opencloudmanifesto.txt:110
+msgid "Principles of an Open Cloud"
+msgstr ""
+
+#: opencloudmanifesto.txt:112
+msgid ""
+"Of course, many clouds will continue to be different in a number of "
+"important ways, providing unique value for organizations. It is not our "
+"intention to define standards for"
+"every capability in the cloud and create a single homogeneous cloud "
+"environment. Rather, as cloud computing matures, there are several key "
+"principles that must be followed to ensure the cloud is open and delivers "
+"the choice, flexibility and agility organizations demand:"
+msgstr ""
+
+#: opencloudmanifesto.txt:115
+msgid ""
+"1. Cloud providers must work together to ensure that the challenges to cloud "
+"adoption (security, integration, portability, interoperability, governance/"
+"management, metering/monitoring) are addressed through open collaboration "
+"and the appropriate use of standards. "
+msgstr ""
+
+#: opencloudmanifesto.txt:117
+msgid "2. Cloud providers must not use their market position to lock customers"
+msgstr ""
+
+#: opencloudmanifesto.txt:119
+msgid ""
+"3. into their particular platforms and limit their choice of providers. "
+"Cloud providers must use and adopt existing standards wherever appropriate. "
+"The IT industry has invested heavily in existing standards and standards "
+"organizations; there is no need to duplicate or reinvent them."
+msgstr ""
+
+#: opencloudmanifesto.txt:121
+msgid ""
+"4. When new standards (or adjustments to existing standards) are needed, we "
+"must be judicious and pragmatic to avoid creating too many standards. We "
+"must ensure that standards promote innovation and do not inhibit it."
+msgstr ""
+
+#: opencloudmanifesto.txt:123
+msgid ""
+"5. Any community effort around the open cloud should be driven by customer "
+"needs, not merely the technical needs of cloud providers, and should be "
+"tested or verified against real customer requirements."
+msgstr ""
+
+#: opencloudmanifesto.txt:125
+msgid ""
+"6. Cloud computing standards organizations, advocacy groups, and communities "
+"should work together and stay coordinated, making sure that efforts do not "
+"conflict or overlap."
+msgstr ""
+
+#: opencloudmanifesto.txt:127
+msgid "Conclusion"
+msgstr ""
+
+#: opencloudmanifesto.txt:129
+msgid ""
+"This document is meant to begin the conversation, not define it. Many "
+"details (taxonomies, definitions and scenarios, for example) will be filled "
+"in as the cloud computing community comes together. We have outlined the "
+"challenges facing organizations that want to take advantage of the cloud. "
+"These issues lead to a call to action for the IT industry around a vision of "
+"an open cloud. We as industry participants must work together to ensure that "
+"the cloud remains as open as all other IT technologies. Some might argue "
+"that it is too early to discuss topics such as standards, interoperability, "
+"integration and portability. Although this is a time of great innovation for "
+"the cloud computing community, that innovation should be guided by the "
+"principles of openness outlined in this document. We argue that it is "
+"exactly the right time to begin the work to build the open cloud. Companies "
+"and organizations that support the open cloud manifesto are listed at: "
+"www.opencloudmanifesto.org"
+msgstr ""
